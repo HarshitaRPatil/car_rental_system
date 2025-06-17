@@ -12,8 +12,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
- *
- * @author @AbdullahShahid01
+ 
  */
 public class Customer extends Person implements Serializable {
 
