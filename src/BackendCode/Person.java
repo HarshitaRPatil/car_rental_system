@@ -2,10 +2,7 @@ package BackendCode;
 
 import java.io.Serializable;
 
-/**
- *
- * @author @AbdullahShahid01
- */
+
 public abstract class Person implements Serializable {
 
     protected int ID;
